@@ -1,0 +1,32 @@
+.container-fluid{
+    max-width: 700px;
+    width:100%;
+    padding:25px 20px;
+    border-radius:5px;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+  span{
+      padding-left: 50px;
+  }
+
+  #signIn{
+      background-color: forestgreen;
+      color:white;
+      border: forestgreen;
+  }
+
+  #register{
+      background-color: skyblue;
+      border: skyblue;
+      color:white
+      
+  }
+  input{
+      margin-bottom: 15px;
+      padding-left: 10px;
+      padding-right: 10px;
+  }
+ 
