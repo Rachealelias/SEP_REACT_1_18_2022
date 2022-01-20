@@ -16,12 +16,15 @@
       background-color: forestgreen;
       color:white;
       border: forestgreen;
+      width: 100px;
   }
 
   #register{
       background-color: skyblue;
       border: skyblue;
-      color:white
+      color:white;
+      width: 100px;
+
       
   }
   input{
