@@ -1,35 +1,38 @@
-.container-fluid{
-    max-width: 700px;
-    width:100%;
-    padding:25px 20px;
-    border-radius:5px;
-    justify-content: center;
-    align-items: center;
-  
-  }
+.midi-container{
+    width:95%; 
+    min-height:300px; 
+    overflow: auto;
+    margin: auto;
 
-  span{
-      padding-left: 50px;
-  }
+}
+.mini-container{
+    width:45%; 
+    min-height:200px; 
+    float:left;
+     border:1px solid grey;
+     padding-left: 15px;
+     margin-left: 20px;
+     margin-top: 20px;
+     margin-bottom: auto;
+     
+}
 
-  #signIn{
-      background-color: forestgreen;
-      color:white;
-      border: forestgreen;
-      width: 100px;
-  }
+.blue{
+    color:blue;
+}
+.green{
+    color:green;
+}
+ .date{
+     font-size: 10px;
+ }
 
-  #register{
-      background-color: skyblue;
-      border: skyblue;
-      color:white;
-      width: 100px;
-
-      
-  }
-  input{
-      margin-bottom: 15px;
-      padding-left: 10px;
-      padding-right: 10px;
-  }
- 
+ .footer-div{
+     background-color: whitesmoke;
+     width:95%;
+     height:100px;
+     padding-left: 15px;
+     padding-top: 10px;
+     margin-left: 20px;
+     text-align: center;
+ }
