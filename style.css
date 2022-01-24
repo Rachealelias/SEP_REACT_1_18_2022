@@ -1,5 +1,5 @@
 .midi-container{
-    width:95%; 
+    width:90%; 
     min-height:300px; 
     overflow: auto;
     margin: auto;
@@ -9,7 +9,7 @@
     width:45%; 
     min-height:200px; 
     float:left;
-     border:1px solid grey;
+     border:2px solid grey;
      padding-left: 15px;
      margin-left: 20px;
      margin-top: 20px;
@@ -36,3 +36,64 @@
      margin-left: 20px;
      text-align: center;
  }
+
+ .midi-container-2{
+    width:90%; 
+    min-height:300px; 
+    overflow: auto;
+    margin: auto;
+
+}
+.mini-container-2{
+    width:70%; 
+    min-height:200px; 
+    float:left;
+     padding-left: 15px;
+     margin-left: 20px;
+     margin-top: 20px;
+     margin-bottom: auto;
+     
+}
+
+.mini-container-3{
+    width:20%; 
+    min-height:200px; 
+    float:left;
+     padding-left: 15px;
+     margin-left: 20px;
+     margin-top: 20px;
+     margin-bottom: auto;
+     
+}
+
+.inner-div{
+    min-height: 50px;
+    width: 99%;
+    border: 1px solid black;
+    padding-left: 10px;
+    margin: auto;
+}
+.about{
+    background-color: whitesmoke;
+}
+h3{
+    font-style: italic;
+}
+
+.footer-div2{
+    background-color: whitesmoke;
+    width:70%;
+    height:100px;
+    padding-left: 15px;
+    padding-top: 10px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.button{
+    color:blue;
+}
+.button2{
+    color:whitesmoke
+}
+
